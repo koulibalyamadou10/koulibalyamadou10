@@ -23,18 +23,6 @@
 
 ### 🏆 **Mes statistiques GitHub**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Koulibaly-Amadou&show_icons=true&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Koulibaly-Amadou&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/Koulibaly-Amadou/Koulibaly-Amadou/blob/output/github-contribution-grid-snake.svg"/>
-</p>
-
 ---
 
 ### 🛠️ **Technologies & Outils**
