@@ -21,7 +21,16 @@
 
 ---
 
-### 🏆 **Mes statistiques GitHub**
+### 🎨 **Ce que je sais faire**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,flutter,spring,arduino,mqtt,python,tensorflow&theme=dark"/>
+</p>
+
+📌 **Développement mobile** avec **Flutter** 📱  
+📌 **Développement back-end** avec **Spring Boot, Symfony et Django** 💻  
+📌 **IoT et systèmes embarqués** avec **ESP8266, Arduino, MQTT** 🔌  
+📌 **Intelligence Artificielle** avec **TensorFlow, OpenCV** 🤖  
 
 ---
 
