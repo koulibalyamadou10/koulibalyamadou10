@@ -6,6 +6,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&color=F76F00&center=true&vCenter=true&width=600&lines=Passionn%C3%A9+par+le+code+et+l%27innovation!;D%C3%A9veloppeur+Java%2C+Flutter%2C+Spring+Boot!;Sp%C3%A9cialiste+IoT%2C+ESP8266%2C+MQTT!;Explorateur+de+l%27IA+et+du+Machine+Learning!"/>
 </p>
 
+### 🌐 **Mes Projets Web**  
+
+Voici quelques sites web que j'ai réalisés :  
+
+- [Site Web Saint Georges](https://saint-georges.vercel.app/) - Le site web de saint Georges  
+- [Site Web Mercure International](https://demo-cyan-gamma.vercel.app/) - Le site web de l'université Mercure International
+
+N'hésite pas à me contacter si tu souhaites en savoir plus sur mes réalisations ! 🚀  
+
 ### 🛠️ **À propos de moi**
 
 💻 Développeur Full-Stack, je travaille sur des technologies comme **Flutter, Java, Spring Boot et Symfony**. J'aime concevoir des applications performantes et intuitives.
