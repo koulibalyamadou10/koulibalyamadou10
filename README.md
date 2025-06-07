@@ -12,7 +12,7 @@ Voici quelques sites web que j'ai réalisés :
 
 - [Site Web Saint Georges](https://saint-georges.vercel.app/) - Le site web de saint Georges  
 - [Site Web Mercure International](https://demo-cyan-gamma.vercel.app/) - Le site web de l'université Mercure International
-- [Site Web Pour la promotion des femmes entrepreneure dans le digital ](https://femdigital.vercel.app/) - Le site web de promotion de femme entrepreneure
+- [Site Web Pour la promotion des femmes entrepreneures dans le digital ](https://femdigital.vercel.app/) - Le site web de promotion de femmes entrepreneures
 
 N'hésite pas à me contacter si tu souhaites en savoir plus sur mes réalisations ! 🚀  
 
